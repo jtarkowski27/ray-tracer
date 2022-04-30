@@ -1,6 +1,6 @@
 # Ray tracer
 
-A parallel implementation of simple ray tracing algorithm with few optimalization techniques.
+A parallel implementation of simple ray tracing algorithm with few optimization techniques.
 
 ## Description
 // TODO
